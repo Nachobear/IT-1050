@@ -1,0 +1,9 @@
+C:\Users\Nachobear\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Nachobear\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Nachobear\Desktop\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Nachobear\Desktop\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\Nachobear\Desktop\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Nachobear\Desktop\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Nachobear\Desktop\IT-1050\Lab2 - Copy\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Nachobear\Desktop\IT-1050\Lab2 - Copy\Lab2\obj\Debug\Lab2.exe
+C:\Users\Nachobear\Desktop\IT-1050\Lab2 - Copy\Lab2\obj\Debug\Lab2.pdb

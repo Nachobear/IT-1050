@@ -1,6 +1,0 @@
-C:\Users\Nachobear\Desktop\Lab2inprogress\Lab2inprogress\bin\Debug\Lab2inprogress.exe.config
-C:\Users\Nachobear\Desktop\Lab2inprogress\Lab2inprogress\obj\Debug\Lab2inprogress.csprojResolveAssemblyReference.cache
-C:\Users\Nachobear\Desktop\Lab2inprogress\Lab2inprogress\bin\Debug\Lab2inprogress.exe
-C:\Users\Nachobear\Desktop\Lab2inprogress\Lab2inprogress\bin\Debug\Lab2inprogress.pdb
-C:\Users\Nachobear\Desktop\Lab2inprogress\Lab2inprogress\obj\Debug\Lab2inprogress.exe
-C:\Users\Nachobear\Desktop\Lab2inprogress\Lab2inprogress\obj\Debug\Lab2inprogress.pdb
