@@ -4,3 +4,9 @@ C:\Users\Nachobear\Desktop\Lab3\Lab3\bin\Debug\Lab3.exe
 C:\Users\Nachobear\Desktop\Lab3\Lab3\bin\Debug\Lab3.pdb
 C:\Users\Nachobear\Desktop\Lab3\Lab3\obj\Debug\Lab3.exe
 C:\Users\Nachobear\Desktop\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\s01073732\Desktop\IT-1050-master\Lab3 - Copy\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\s01073732\Desktop\IT-1050-master\Lab3 - Copy\Lab3\obj\Debug\Lab3.exe
+C:\Users\s01073732\Desktop\IT-1050-master\Lab3 - Copy\Lab3\obj\Debug\Lab3.pdb
+C:\Users\s01073732\Desktop\IT-1050-master\Lab3 - Copy\Lab3\bin\Debug\Lab3.exe
+C:\Users\s01073732\Desktop\IT-1050-master\Lab3 - Copy\Lab3\bin\Debug\Lab3.pdb
+C:\Users\s01073732\Desktop\IT-1050-master\Lab3 - Copy\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache

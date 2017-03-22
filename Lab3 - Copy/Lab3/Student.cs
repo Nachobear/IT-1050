@@ -12,13 +12,6 @@ namespace Lab3
         private int Grade;
         private Instructor Teacher;
 
-        public Student()
-        {
-            this.Name = "unknown";
-            //this.Teacher = mike;
-            this.Grade = 0;
-        }
-
         public Student(string name, Instructor teacher)
         {
             this.Name = name;
@@ -37,8 +30,9 @@ namespace Lab3
 
         public void printInfo()
         {
-            System.Console.WriteLine("name: " + this.Name + " grade: " + this.Grade + " teacher: " + this.Teacher + " course:");
-            this.Teacher.writeCourseName();
+            System.Console.WriteLine("=");
+            System.Console.WriteLine("name: " + this.Name + " grade: " + this.Grade);
+            this.Teacher.printInfo();
         }
     }
 }
