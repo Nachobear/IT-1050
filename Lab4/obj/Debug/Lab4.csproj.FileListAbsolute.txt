@@ -1,0 +1,11 @@
+C:\Users\Nachobear\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Nachobear\Desktop\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+D:\Lab4\bin\Debug\Lab4.exe.config
+D:\Lab4\bin\Debug\Lab4.exe
+D:\Lab4\bin\Debug\Lab4.pdb
+D:\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+D:\Lab4\obj\Debug\Lab4.exe
+D:\Lab4\obj\Debug\Lab4.pdb
+J:\Lab4\bin\Debug\Lab4.exe.config
+J:\Lab4\obj\Debug\Lab4.exe
+J:\Lab4\obj\Debug\Lab4.pdb
